@@ -1,0 +1,193 @@
+name,season,age,body_type,race_ethnicity,num_bottom,bottom_win,max_challenge,snatch_win,mini_challenge,drag_exp,challenge_type,personality,mentor_supp,judge_comment,lipsync_ass,sentiment,positive_action1,positive_action2,final_status
+BeBe Zahara Benet,1,28,Slender,Black,1,1,2,No,0,8,"Runway, Performance",Elegant,No,Praised for elegance and strong performances,No,0.4333333333333333,elegance,strong performances,Winner
+Nina Flowers,1,34,Athletic,Latinx,0,0,2,No,1,10,"Runway, Fashion",Confident,No,Celebrated for fashion and strong runway looks,No,0.3916666666666666,fashion,strong runway looks,Finalist
+Rebecca Glasscock,1,26,Slender,Latinx,2,2,2,No,1,5,"Runway, Performance",Sweet,No,Praised for sweet personality and strong runway looks,Yes,0.3916666666666666,sweet personality,strong runway looks,Not in Finals
+Shannel,1,29,Slender,White,2,1,0,No,0,6,"Runway, Performance",Polished,No,Known for polished looks and strong performances,Yes,0.4333333333333333,polished looks,strong performances,Not in Finals
+Ongina,1,26,Slender,Asian American,1,0,2,No,0,5,"Runway, Fashion",Confident,No,Celebrated for fashion and strong runway looks,No,0.3916666666666666,fashion,strong runway looks,Not in Finals
+Jade,1,25,Slender,Latinx,1,0,1,No,1,4,"Runway, Performance",Humorous,No,Highlighted for humor and strong performances,No,0.4333333333333333,humor,strong performances,Not in Finals
+Akashia,1,24,Slender,Black,3,2,0,No,0,6,"Runway, Performance",Bold,No,Known for bold personality and strong performances,Yes,0.3833333333333333,bold personality,strong performances,Not in Finals
+Tammie Brown,1,28,Slender,White,1,0,0,No,0,15,"Comedy, Performance",Quirky,No,Highlighted for quirky style and strong performances,No,0.2166666666666666,quirky style,strong performances,Not in Finals
+"Victoria ""Porkchop"" Parker",1,39,Plus-size,White,1,0,0,No,0,20,"Runway, Performance",Humorous,No,Known for humor and strong performances,No,0.4333333333333333,humor,strong performances,Not in Finals
+Tyra Sanchez,2,21,Slender,Black,0,0,4,No,1,4,"Runway, Fashion",Confident,No,Praised for fashion and runway looks,No,0,fashion,runway looks,Winner
+Raven,2,30,Slender,White,2,2,5,No,3,7,"Runway, Performance",Polished,No,Celebrated for polished looks and performances,Yes,0.35,polished looks,performances,Finalist
+Jujubee,2,25,Slender,Asian American,3,3,1,No,1,5,"Comedy, Performance",Humorous,No,Known for humor and strong performances,Yes,0.4333333333333333,humor,strong performances,Not in Finals
+Tatianna,2,20,Slender,Latinx,2,1,2,Yes,1,3,"Runway, Performance",Sweet,No,Praised for sweet personality and strong runway looks,Yes,0.3916666666666666,sweet personality,strong runway looks,Not in Finals
+Pandora Boxx,2,37,Slender,White,1,0,1,No,1,10,"Comedy, Performance",Quirky,No,Celebrated for humor and quirky style,No,0.175,humor,quirky style,Not in Finals
+Jessica Wild,2,29,Slender,Latinx,1,0,1,No,0,7,"Runway, Performance",Energetic,No,Known for high-energy performances,No,0,high-energy performances,,Not in Finals
+Sahara Davenport,2,25,Slender,Black,3,2,1,No,0,6,"Dance, Performance",Energetic,No,Praised for dance skills and high-energy performances,Yes,0,dance skills,high-energy performances,Not in Finals
+Morgan McMichaels,2,28,Slender,White,2,1,1,No,0,5,"Runway, Performance",Confident,No,Recognized for confident runway looks,Yes,0.5,confident runway looks,,Not in Finals
+Sonique,2,26,Athletic,White,1,0,0,No,0,6,"Dance, Performance",Outspoken,No,Known for outspoken personality and strong performances,Yes,0.4333333333333333,outspoken personality,strong performances,Not in Finals
+Mystique Summers Madison,2,25,Plus-size,Black,1,0,0,No,0,5,"Comedy, Performance",Humorous,No,Highlighted for humor and strong performances,Yes,0.4333333333333333,humor,strong performances,Not in Finals
+Nicole Paige Brooks,2,36,Slender,White,1,0,0,No,0,10,"Runway, Performance",Sweet,No,Known for sweet personality and strong runway looks,No,0.3916666666666666,sweet personality,strong runway looks,Not in Finals
+Shangela,3,28,Slender,Black,2,1,2,No,1,3,"Comedy, Performance",Outspoken,No,Known for outspoken personality and strong performances,No,0.4333333333333333,outspoken personality,strong performances,Not in Finals
+Raja,3,36,Slender,Asian American,0,0,0,No,0,15,"Runway, Fashion",Confident,No,Praised for fashion and runway looks,No,0,fashion,runway looks,Winner
+Manila Luzon,3,28,Slender,Asian American,1,1,3,No,2,6,"Comedy, Performance",Creative,No,Celebrated for creativity and humor,No,0.35,creativity,humor,Finalist
+Alexis Mateo,3,30,Athletic,Latinx,3,3,3,No,1,8,"Dance, Performance",Energetic,No,Known for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Yara Sofia,3,26,Athletic,Latinx,2,0,2,No,1,6,"Runway, Fashion",Creative,No,Praised for fashion and creativity,Yes,0,fashion,creativity,Not in Finals
+Carmen Carrera,3,25,Slender,Latinx,3,1,1,No,1,5,"Runway, Fashion",Elegant,No,Known for elegance and runway looks,Yes,0,elegance,runway looks,Not in Finals
+Delta Work,3,34,Plus-size,White,3,2,1,No,1,10,"Comedy, Performance",Humorous,No,Celebrated for humor and performances,Yes,0.35,humor,performances,Not in Finals
+Stacy Layne Matthews,3,25,Plus-size,Black,2,1,1,Yes,0,8,"Runway, Performance",Sweet,No,Highlighted for sweet personality and strong runway looks,No,0.3916666666666666,sweet personality,strong runway looks,Not in Finals
+Mariah,3,29,Slender,Black,1,0,0,No,0,10,"Runway, Fashion",Confident,No,Praised for fashion and runway looks,No,0,fashion,runway looks,Not in Finals
+India Ferrah,3,23,Slender,White,2,1,0,No,0,5,"Runway, Performance",Humorous,No,Highlighted for unique style and personality,No,0.375,unique style,personality,Not in Finals
+Mimi Imfurst,3,26,Slender,White,1,0,0,No,0,7,"Comedy, Performance",Outspoken,No,Known for outspoken personality and humor,No,0,outspoken personality,humor,Not in Finals
+Phoenix,3,29,Slender,White,1,0,0,No,0,6,"Runway, Performance",Confident,No,Recognized for confident runway looks,No,0.5,confident runway looks,,Not in Finals
+Venus D-Lite,3,26,Slender,White,1,0,0,No,0,5,"Runway, Performance",Creative,No,,,0,,,Not in Finals
+Sharon Needles,4,29,Slender,White,1,0,4,No,0,7,"Horror, Performance",Quirky,No,Praised for unique style and performances,No,0.375,unique style,performances,Winner
+Chad Michaels,4,40,Slender,White,1,1,3,Yes,2,20,"Impersonation, Performance",Polished,No,Celebrated for polished looks and performances,No,0.35,polished looks,performances,Finalist
+Phi Phi O'Hara,4,25,Slender,Asian/Latinx,1,0,4,No,2,5,"Runway, Performance",Confident,No,Known for confident runway looks,No,0.5,confident runway looks,,Finalist
+Latrice Royale,4,39,Plus-size,Black,3,2,2,No,1,20,"Comedy, Performance",Bold,No,Praised for bold personality and humor,Yes,0.3333333333333333,bold personality,humor,Not in Finals
+Kenya Michaels,4,21,Slender,Latinx,2,0,1,No,1,3,"Runway, Performance",Energetic,No,Known for high-energy performances,No,0,high-energy performances,,Not in Finals
+DiDa Ritz,4,25,Slender,Black,2,1,0,No,0,6,"Dance, Performance",Humorous,No,Celebrated for humor and performances,Yes,0.35,humor,performances,Not in Finals
+Willam,4,29,Slender,White,1,1,2,No,1,7,"Acting, Performance",Outspoken,No,Known for outspoken personality and performances,No,0,outspoken personality,performances,Finalist
+Jiggly Caliente,4,30,Plus-size,Asian American,3,2,2,No,2,10,"Comedy, Performance",Bold,No,Recognized for bold personality and humor,Yes,0.3333333333333333,bold personality,humor,Not in Finals
+Milan,4,36,Slender,Black,3,2,0,No,0,8,"Dance, Performance",Energetic,No,Known for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Madame LaQueer,4,29,Plus-size,Latinx,1,0,0,No,0,10,"Comedy, Performance",Humorous,No,Celebrated for humor and performances,No,0.35,humor,performances,Not in Finals
+The Princess,4,31,Slender,White,2,1,0,No,0,6,"Runway, Performance",Elegant,No,Known for elegance and runway looks,No,0,elegance,runway looks,Not in Finals
+Lashauwn Beyond,4,21,Slender,Black,1,0,0,No,0,3,"Runway, Fashion",Quiet,No,Praised for fashion and runway looks,No,0,fashion,runway looks,Not in Finals
+Alisa Summers,4,23,Slender,Latinx,1,0,0,No,0,5,"Runway, Performance",Sweet,No,Highlighted for sweet personality,No,0.35,sweet personality,,Not in Finals
+Jinkx Monsoon,5,24,Average,White,1,1,2,Yes,0,7,"Comedy, Performance",Quirky,No,Praised for humor and performances,No,0,humor,performances,Winner
+Alaska,5,27,Slender,White,0,0,5,No,3,5,"Comedy, Performance",Confident,"Yes, from Sharon Needles",Known for humor and performances,No,0,humor,performances,Finalist
+Roxxxy Andrews,5,28,Plus-size,Latinx,1,0,3,No,1,10,"Runway, Performance",Bold,No,Recognized for runway looks and performances,Yes,0,runway looks,performances,Finalist
+Detox,5,27,Slender,White,3,2,5,No,4,10,"Runway, Performance",Fashion-forward,No,Praised for fashion and creativity,Yes,0,fashion,creativity,Not in Finals
+Coco Montrese,5,37,Slender,Black,4,3,1,No,0,20,"Dance, Performance",Energetic,No,Known for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Alyssa Edwards,5,32,Slender,White,3,2,2,No,1,12,"Dance, Performance",Outspoken,No,Recognized for dance skills and personality,Yes,0,dance skills,personality,Not in Finals
+Ivy Winters,5,26,Slender,White,1,0,2,No,1,6,"Runway, Performance",Sweet,No,Praised for sweetness and creativity,No,0,sweetness,creativity,Not in Finals
+Jade Jolie,5,25,Slender,White,1,0,0,No,0,5,"Runway, Performance",Humorous,No,Known for humor and personality,No,0,humor,personality,Not in Finals
+Lineysha Sparx,5,24,Slender,Latinx,1,0,1,No,0,7,"Runway, Performance",Confident,No,Praised for confident runway looks,No,0.5,confident runway looks,,Not in Finals
+Honey Mahogany,5,29,Slender,Black,1,1,0,No,0,6,"Runway, Performance",Sweet,No,Known for sweetness and runway looks,No,0,sweetness,runway looks,Not in Finals
+Vivienne Pinay,5,26,Slender,Asian American,1,0,0,No,0,5,"Runway, Performance",Sweet,No,Known for sweetness and personality,No,0,sweetness,personality,Finalist
+Monica Beverly Hillz,5,27,Slender,Black,2,1,0,No,0,6,"Runway, Performance",,,,,0,,,Not in Finals
+Bianca Del Rio,6,37,Average,Latinx,0,0,4,No,1,18,"Comedy, Performance",Confident,No,Praised for humor and polished looks,No,0,humor,polished looks,Winner
+Adore Delano,6,23,Slender,Latinx,2,2,2,No,0,5,"Singing, Performance",Energetic,No,Celebrated for singing and personality,Yes,0.35,singing,personality,Finalist
+Courtney Act,6,31,Slender,White,0,0,2,No,0,10,"Runway, Performance",Fashion-forward,No,Praised for runway looks and performances,No,0,runway looks,performances,Finalist
+Darienne Lake,6,41,Plus-size,White,3,2,2,No,1,22,"Comedy, Performance",Bold,No,Known for bold personality and humor,Yes,0.3333333333333333,bold personality,humor,Not in Finals
+BenDeLaCreme,6,31,Average,White,2,1,4,Yes,2,7,"Comedy, Performance",Quirky,No,Praised for humor and creativity,No,0,humor,creativity,Not in Finals
+Joslyn Fox,6,26,Slender,White,2,1,1,No,1,6,"Comedy, Performance",Sweet,No,Appreciated for sweetness and humor,No,0.2,sweetness,humor,Not in Finals
+Trinity K. Bonet,6,22,Slender,Black,3,2,1,No,1,6,"Dance, Performance",Energetic,No,Known for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Laganja Estranja,6,24,Slender,White,2,1,2,No,2,4,"Dance, Performance",Outspoken,"Yes, from Alyssa Edwards",Known for dance skills and high-energy performances,Yes,0,dance skills,high-energy performances,Not in Finals
+Milk,6,25,Slender,White,1,0,0,No,0,5,"Fashion, Performance",Quirky,No,Praised for unique style and creativity,No,0.375,unique style,creativity,Not in Finals
+Gia Gunn,6,23,Slender,Asian American,1,0,0,No,0,4,"Runway, Performance",Confident,No,Recognized for confident runway looks,No,0.5,confident runway looks,,Not in Finals
+April Carrion,6,24,Slender,Latinx,2,1,0,No,0,6,"Runway, Performance",Bold,No,Highlighted for bold runway looks,No,0.3333333333333333,bold runway looks,,Not in Finals
+Vivacious,6,40,Slender,Black,2,1,0,No,0,20,"Runway, Performance",Humorous,No,Known for humor and performances,No,0,humor,performances,Not in Finals
+Kelly Mantle,6,37,Slender,White,1,0,0,No,0,15,"Comedy, Performance",Intellectual,No,Praised for humor and intelligence,No,0,humor,intelligence,Not in Finals
+Magnolia Crawford,6,28,Slender,White,1,0,0,No,0,4,"Runway, Performance",Humorous,No,Highlighted for unique style and personality,No,0.375,unique style,personality,Finalist
+Violet Chachki,7,22,Slender,White,0,0,3,No,1,4,"Runway, Fashion",Confident,No,Praised for fashion and runway looks,No,0,fashion,runway looks,Winner
+Ginger Minj,7,29,Plus-size,White,1,1,4,Yes,2,10,"Comedy, Performance",Humorous,No,Celebrated for humor and performances,No,0.35,humor,performances,Finalist
+Pearl,7,23,Slender,White,2,2,1,No,0,5,"Runway, Performance",Laid-back,No,Appreciated for runway looks and personality,No,0.2,runway looks,personality,Finalist
+Kennedy Davenport,7,33,Athletic,Black,2,2,2,Yes,1,10,"Dance, Performance",Energetic,No,Recognized for dance skills and high-energy performances,Yes,0,dance skills,high-energy performances,Not in Finals
+Katya,7,32,Slender,White,2,1,1,No,0,7,"Comedy, Performance",Quirky,No,Known for quirky style and humor,Yes,0,quirky style,humor,Not in Finals
+Trixie Mattel,7,24,Slender,White,2,0,1,No,1,5,"Comedy, Performance",Quirky,No,Praised for humor and creativity,No,0,humor,creativity,Not in Finals
+Miss Fame,7,29,Slender,White,1,0,0,No,0,6,"Runway, Fashion",Fashion-forward,No,Celebrated for fashion and makeup skills,No,0.35,fashion,makeup skills,Not in Finals
+Jaidynn Diore Fierce,7,25,Slender,Black,2,2,0,No,0,4,"Runway, Performance",Humorous,No,Appreciated for humor and charm,No,0.2,humor,charm,Not in Finals
+Max,7,22,Slender,White,1,0,1,No,0,3,"Runway, Fashion",Elegant,No,Known for elegance and fashion,No,0,elegance,fashion,Not in Finals
+Kandy Ho,7,28,Slender,Latinx,3,2,0,No,0,5,"Runway, Performance",Bold,No,Highlighted for bold personality and runway looks,No,0.3333333333333333,bold personality,runway looks,Not in Finals
+Kasha Davis,7,43,Plus-size,White,1,0,0,No,0,15,"Comedy, Performance",Humorous,No,Known for humor and performances,No,0,humor,performances,Not in Finals
+Sasha Belle,7,28,Average,White,1,0,0,No,0,6,"Runway, Performance",Humorous,No,Highlighted for,,0,,,Not in Finals
+Tempest DuJour,7,46,Plus-size,White,1,0,0,No,0,15,"Comedy, Performance",Humorous,No,Recognized for humor and performances,No,0,humor,performances,Not in Finals
+Bob the Drag Queen,8,29,Average,Black,1,1,3,Yes,1,8,"Comedy, Performance",Charismatic,No,Praised for humor and performances,No,0,humor,performances,Winner
+Kim Chi,8,27,Slender,Asian American,0,0,2,No,0,5,"Runway, Fashion",Creative,No,Celebrated for unique fashion and creativity,No,0.3625,unique fashion,creativity,Finalist
+Naomi Smalls,8,21,Slender,Black,1,1,2,No,1,3,"Runway, Fashion",Fashion-forward,No,Praised for runway looks,No,0,runway looks,,Finalist
+Chi Chi DeVayne,8,29,Slender,Black,2,2,2,No,1,8,"Dance, Performance",Resilient,No,Recognized for resilience and performance skills,Yes,0,resilience,performance skills,Not in Finals
+Derrick Barry,8,32,Slender,White,2,1,1,No,1,10,"Impersonation, Performance",Confident,No,Known for impersonation skills,No,0,impersonation skills,,Not in Finals
+Thorgy Thor,8,31,Slender,White,1,0,0,No,0,10,"Comedy, Performance",Quirky,No,Highlighted for quirky style and humor,No,0,quirky style,humor,Not in Finals
+Robbie Turner,8,33,Slender,White,2,1,2,No,1,7,"Comedy, Performance",Humorous,No,Appreciated for humor and charm,No,0.2,humor,charm,Not in Finals
+Acid Betty,8,37,Slender,Latinx,1,0,0,No,0,15,"Runway, Fashion",Creative,No,Praised for unique fashion and creativity,No,0.375,unique fashion,creativity,Not in Finals
+Naysha Lopez,8,31,Slender,Latinx,2,0,0,No,0,8,"Runway, Fashion",Elegant,No,Recognized for elegance and runway looks,No,0,elegance,runway looks,Not in Finals
+Cynthia Lee Fontaine,8,34,Plus-size,Latinx,1,0,0,No,0,12,"Comedy, Performance",Humorous,No,Known for humor and charm,No,0,humor,charm,Not in Finals
+Dax ExclamationPoint,8,31,Slender,Black,1,1,0,No,0,6,"Runway, Fashion",Bold,No,Highlighted for bold fashion,No,0.3333333333333333,bold fashion,,Not in Finals
+Laila McQueen,8,22,Slender,White,2,1,0,No,0,4,"Runway, Performance",Humorous,No,Recognized for humor and charm,No,0,humor,charm,Finalist
+Sasha Velour,9,29,Slender,White,0,0,1,No,1,7,"Runway, Fashion",Intellectual,No,Praised for fashion and runway looks,Yes,0,fashion,runway looks,Winner
+Peppermint,9,37,Plus-size,Black,2,2,1,No,0,15,"Performance, Activism",Outspoken,No,Known for activism and strong personality,Yes,0.4333333333333333,activism,strong personality,Finalist
+Shea Coulee,9,27,Slender,Black,1,1,2,No,0,6,"Runway, Performance",Confident,No,Celebrated for strong performances,No,0.3916666666666666,strong performances,,Not in Finals
+Trinity Taylor,9,31,Athletic,White,1,1,3,No,0,10,"Runway, Performance",Polished,No,Recognized for polished looks and performances,No,0,polished looks,performances,Finalist
+Alexis Michelle,9,32,Average,White,2,1,2,Yes,1,10,"Acting, Comedy",Versatile,No,Appreciated for humor and versatility,No,0.2,humor,versatility,Not in Finals
+Nina Bo'nina Brown,9,34,Slender,Black,3,2,1,No,0,7,"Runway, Performance",Quirky,No,Highlighted for unique style and personality,No,0.375,unique style,personality,Not in Finals
+Valentina,9,25,Slender,Latinx,1,0,2,No,1,2,"Runway, Fashion",Confident,No,Praised for fashion and runway looks,Yes,0,fashion,runway looks,Not in Finals
+Farrah Moan,9,23,Slender,White,2,0,0,No,0,4,"Runway, Performance",Sweet,No,Known for sweet personality and strong runway looks,No,0.3916666666666666,sweet personality,strong runway looks,Not in Finals
+Aja,9,22,Slender,Latinx,2,1,0,No,0,5,"Dance, Performance",Energetic,"Yes, from Bob the Drag Queen",Celebrated for high-energy performances,Yes,0.35,high-energy performances,,Not in Finals
+Eureka,9,25,Plus-size,White,0,0,0,No,0,8,"Comedy, Performance",Bold,No,Known for bold personality and humor,Yes,0.3333333333333333,bold personality,humor,Not in Finals
+Eureka,9,25,Plus-size,White,0,0,0,No,0,7,"Comedy, Performance",Bold,No,Known for bold personality and humor,No,0.3333333333333333,bold personality,humor,Not in Finals
+Eureka,10,27,Plus-size,White,2,2,4,No,2,8,"Comedy, Performance",Bold,No,Known for bold personality and humor,Yes,0.3333333333333333,bold personality,humor,Finalist
+Eureka,10,27,Plus-size,White,2,2,4,No,2,7,"Comedy, Performance",Bold,No,Known for bold personality and humor,No,0.3333333333333333,bold personality,humor,Finalist
+Charlie Hides,9,52,Slender,White,1,0,0,No,0,15,"Comedy, Performance",Intellectual,No,Praised for humor and intelligence,No,0,humor,intelligence,Not in Finals
+Jaymes Mansfield,9,26,,,1,0,0,No,0,,,,,,,0,,,Not in Finals
+Aquaria,10,21,Slender,White,0,0,5,Yes,2,5,"Runway, Fashion",Confident,"Yes, from Sharon Needles",Praised for fashion and runway looks,No,0,fashion,runway looks,Winner
+Kameron Michaels,10,31,Athletic,White,2,1,1,No,0,10,"Dance, Performance",Quiet,No,Praised for lip-sync performances,Yes,0,lip-sync performances,,Finalist
+Asia O'Hara,10,35,Slender,Black,1,1,5,No,3,12,"Runway, Performance",Charismatic,No,Recognized for strong performances,No,0.4333333333333333,strong performances,,Not in Finals
+Miz Cracker,10,33,Average,White,0,0,1,No,0,7,"Comedy, Performance",Intellectual,No,Appreciated for humor and intelligence,No,0.2,humor,intelligence,Not in Finals
+Monet X Change,10,27,Average,Black,3,2,2,No,2,6,"Comedy, Performance",Humorous,No,Celebrated for humor and charm,Yes,0.35,humor,charm,Not in Finals
+The Vixen,10,26,Slender,Black,3,2,2,No,1,8,"Activism, Performance",Outspoken,No,Known for activism and strong personality,No,0.4333333333333333,activism,strong personality,Not in Finals
+Monique Heart,10,31,Slender,Black,1,0,0,No,0,7,"Comedy, Performance",Charismatic,No,Praised for charisma and humor,Yes,0,charisma,humor,Not in Finals
+Blair St. Clair,10,22,Slender,White,1,0,1,No,1,3,"Singing, Performance",Sweet,No,Recognized for sweet personality,No,0.35,sweet personality,,Not in Finals
+Mayhem Miller,10,35,Slender,Black,2,1,1,No,0,12,"Runway, Performance",Humorous,No,Known for humor and strong runway looks,Yes,0.4333333333333333,humor,strong runway looks,Not in Finals
+Dusty Ray Bottoms,10,29,Average,White,1,0,0,No,0,5,"Runway, Performance",Quirky,No,Highlighted for unique style and personality,No,0.375,unique style,personality,Not in Finals
+Yuhua Hamasaki,10,27,Slender,Asian American,1,0,0,No,0,6,"Runway, Performance",Energetic,No,Known for high-energy performances,No,0,high-energy performances,,Not in Finals
+Kalorie Karbdashian Williams,10,27,Plus-size,Latinx,2,1,0,No,0,4,"Comedy, Performance",Humorous,No,Celebrated for humor and charm,No,0.35,humor,charm,Not in Finals
+Vanessa Vanjie Mateo,11,26,Average,Latinx,3,2,0,No,1,5,"Dance, Performance",Energetic,No,Highlighted for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Yvie Oddly,11,24,Athletic,Black,1,0,0,No,0,7,"Runway, Performance",Unique,No,Praised for uniqueness and creativity,Yes,0,uniqueness,creativity,Winner
+Brooke Lynn Hytes,11,32,Athletic,White,2,2,5,No,2,8,"Dance, Runway",Polished,No,Celebrated for dance skills and polished looks,No,0.35,dance skills,polished looks,Finalist
+A'keria C. Davenport,11,30,Slender,Black,1,1,2,No,0,11,"Runway, Performance",Elegant,No,Praised for elegance and strong performances,Yes,0.4333333333333333,elegance,strong performances,Not in Finals
+Silky Nutmeg Ganache,11,28,Plus-size,Black,1,1,4,Yes,2,8,"Comedy, Performance",Bold,No,Known for bold personality and humor,No,0.3333333333333333,bold personality,humor,Finalist
+Nina West,11,39,Plus-size,White,1,0,2,No,0,20,"Comedy, Performance",Humorous,No,Celebrated for humor and charm,No,0.35,humor,charm,Not in Finals
+Shuga Cain,11,40,Average,Latinx,2,1,0,No,0,6,"Runway, Performance",Charismatic,No,Known for charisma and performance skills,No,0,charisma,performance skills,Not in Finals
+Plastique Tiara,11,21,Slender,Asian American,1,0,1,No,0,4,"Runway, Performance",Fashion-forward,"Yes, from Alyssa Edwards",Praised for fashion and runway looks,No,0,fashion,runway looks,Not in Finals
+Ra'Jah O'Hara,11,33,Athletic,Black,3,2,1,No,1,7,"Dance, Performance",Energetic,No,Known for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Scarlet Envy,11,26,Average,White,1,0,1,No,1,6,"Runway, Performance",Confident,No,Recognized for confident runway looks,No,0.5,confident runway looks,,Not in Finals
+Ariel Versace,11,26,Slender,White,1,0,0,No,0,5,"Runway, Performance",Quirky,No,Highlighted for unique style and personality,No,0.375,unique style,personality,Not in Finals
+Mercedes Iman Diamond,11,31,Slender,Black,2,1,0,No,0,6,"Runway, Performance",Elegant,No,Known for elegant runway looks,No,0.5,elegant runway looks,,Not in Finals
+Honey Davenport,11,32,Plus-size,Black,0,0,0,No,0,10,"Runway, Performance",Humorous,,,,0,,,Not in Finals
+Jaida Essence Hall,12,32,Athletic,Black,1,1,3,No,0,12,"Runway, Performance",Charismatic,No,Praised for runway looks and performances,No,0,runway looks,performances,Winner
+Crystal Methyd,12,28,Slender,White,1,1,1,No,0,7,"Design, Comedy",Quirky,No,Recognized for unique style and creativity,No,0.375,unique style,creativity,Finalist
+Gigi Goode,12,21,Slender,White,0,0,4,Yes,1,5,"Runway, Performance",Fashion-forward,No,Celebrated for fashion and polished looks,No,0.35,fashion,polished looks,Finalist
+Sherry Pie,12,27,Average,White,0,0,2,No,0,6,"Acting, Comedy",Confident,No,Praised for acting and performance skills,No,0,acting,performance skills,Finalist
+Jackie Cox,12,34,Slender,Middle Eastern,3,1,2,No,1,10,"Comedy, Performance",Intellectual,No,Appreciated for humor and intelligence,No,0.2,humor,intelligence,Not in Finals
+Heidi N Closet,12,24,Slender,Black,4,3,1,No,0,4,"Dance, Comedy",Humorous,No,Celebrated for humor and charm,Yes,0.35,humor,charm,Not in Finals
+Widow Von'Du,12,30,Plus-size,Black,2,1,1,No,0,10,"Dance, Performance",Energetic,No,Praised for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Jan,12,26,Athletic,White,1,0,0,No,0,5,"Singing, Performance",Versatile,No,Recognized for singing and versatility,No,0,singing,versatility,Not in Finals
+Brita,12,34,Plus-size,Polynesian,3,2,0,No,0,10,"Comedy, Performance",Bold,No,Known for bold personality and humor,Yes,0.3333333333333333,bold personality,humor,Not in Finals
+Aiden Zhane,12,29,Average,White,1,0,0,No,0,4,"Design, Performance",Quirky,No,Highlighted for unique perspective and style,No,0.375,unique perspective,style,Not in Finals
+Nicky Doll,12,28,Slender,French,2,1,0,No,0,7,"Runway, Performance",Fashion-forward,No,Recognized for fashion and runway looks,No,0,fashion,runway looks,Not in Finals
+Rock M. Sakura,12,28,Athletic,Asian American,1,0,0,No,0,5,"Comedy, Performance",Energetic,No,Praised for energetic performances and humor,No,0.5,energetic performances,humor,Not in Finals
+Dahlia Sin,12,28,Slender,Black,1,0,0,No,0,6,"Runway, Performance",Bold,No,Known for bold runway looks,No,0.3333333333333333,bold runway looks,,Not in Finals
+Symone,13,25,Slender,Black,2,1,2,No,0,4,"Acting, Fashion",Charismatic,"Yes, from Gigi Goode",Praised for charisma and strong runway presence,No,0.4333333333333333,charisma,strong runway presence,Winner
+Kandy Muse,13,25,Plus-size,Latinx,3,3,2,No,1,5,"Comedy, Performance",Bold,"Yes, from Aja",Known for bold personality and humor,Yes,0.3333333333333333,bold personality,humor,Finalist
+Gottmik,13,23,Slender,White,0,0,3,Yes,1,3,"Fashion, Design",Confident,No,Celebrated for fashion-forward looks and makeup skills,No,0.35,fashion-forward looks,makeup skills,Not in Finals
+Rose,13,31,Athletic,White,0,0,2,No,0,8,"Singing, Comedy",Versatile,"Yes, from Jan",Recognized for polished performances and versatility,No,0,polished performances,versatility,Finalist
+Olivia Lux,13,26,Slender,Black,2,1,2,No,0,3,"Acting, Runway",Charming,No,Appreciated for charm and stage presence,No,0.2,charm,stage presence,Not in Finals
+Utica Queen,13,25,Slender,White,3,2,0,No,0,6,"Fashion, Design",Quirky,No,Known for quirky style and unique perspective,No,0.1875,quirky style,unique perspective,Not in Finals
+Tina Burner,13,39,Plus-size,White,1,0,0,No,0,20,"Comedy, Performance",Humorous,No,Highlighted for comedy and energetic performances,No,0.5,comedy,energetic performances,Not in Finals
+Denali,13,28,Athletic,Latinx,2,1,1,No,0,4,"Dance, Performance",Energetic,No,Commended for dance skills and high-energy performances,Yes,0,dance skills,high-energy performances,Not in Finals
+Elliott with 2 Ts,13,26,Average,White,2,1,0,No,0,5,"Dance, Runway",Polished,No,Recognized for polished looks and performances,No,0,polished looks,performances,Not in Finals
+LaLa Ri,13,30,Slender,Black,2,1,1,No,1,6,"Comedy, Performance",Charismatic,No,Celebrated for charisma and strong stage presence,Yes,0.3916666666666666,charisma,strong stage presence,Not in Finals
+Tamisha Iman,13,49,Plus-size,Black,1,0,0,No,0,30,"Performance, Design",Resilient,No,Praised for resilience and experience,No,0,resilience,experience,Not in Finals
+Joey Jay,13,30,Average,White,1,0,0,No,0,3,"Comedy, Performance",Humorous,No,Known for unique style and humor,No,0.375,unique style,humor,Not in Finals
+Kahmora Hall,13,28,Slender,Asian American,1,0,0,No,0,8,"Fashion, Runway",Elegant,No,,,0,,,Not in Finals
+Willow Pill,14,26,Average,White,1,0,2,No,1,6,"Acting, Design",Creative,"Yes, from Yvie Oddly",Praised for uniqueness and creativity,No,0,uniqueness,creativity,Winner
+Lady Camden,14,31,Slender,White,0,0,3,No,0,5,"Dance, Performance",Versatile,No,Commended for polished performances and strong runway looks,No,0.4333333333333333,polished performances,strong runway looks,Finalist
+Angeria Paris VanMicheals,14,27,Average,Black,1,1,3,No,1,7,"Acting, Runway",Charming,No,Known for elegance and charm,No,0,elegance,charm,Not in Finals
+Bosco,14,28,Slender,White,1,1,6,No,3,4,"Performance, Design",Confident,No,Celebrated for burlesque style and confidence,No,0.35,burlesque style,confidence,Finalist
+Daya Betty,14,25,Slender,White,1,0,2,No,1,8,"Fashion, Design",Bold,"Yes, from Crystal Methyd",Recognized for edgy fashion and bold performances,Yes,0.016666667,edgy fashion,bold performances,Finalist
+DeJa Skye,14,31,Plus-size,Black,1,1,1,Yes,0,8,"Comedy, Performance",Humorous,No,Appreciated for humor and positive energy,No,0.2136363636363636,humor,positive energy,Not in Finals
+Jorgeous,14,21,Slender,Latinx,3,1,1,No,0,3,"Dance, Performance",Energetic,No,Highlighted for dance skills and stage presence,Yes,0,dance skills,stage presence,Finalist
+Jasmine Kennedie,14,22,Athletic,White,3,3,0,No,0,5,"Dance, Performance",High-energy,No,Praised for high-energy performances,Yes,0,high-energy performances,,Not in Finals
+Kerri Colby,14,24,Slender,Black,2,1,1,No,1,6,"Fashion, Runway",Elegant,"Yes, from Kornbread ""The Snack"" JetÃ©",Known for stunning looks and elegance,No,0.5,stunning looks,elegance,Not in Finals
+Maddy Morphosis,14,26,Average,White,2,1,0,No,0,4,"Comedy, Performance",Unique,No,Highlighted for unique perspective and humor,No,0.375,unique perspective,humor,Not in Finals
+Orion Story,14,25,Average,White,2,0,0,No,0,3,"Fashion, Design",Quirky,No,Celebrated for quirky style and creativity,No,0.175,quirky style,creativity,Not in Finals
+Kornbread 'The Snack' Jete,14,29,Plus-size,Black,0,0,0,No,0,7,"Comedy, Performance",Bold,No,Recognized for bold personality and humor,No,0.3333333333333333,bold personality,humor,Not in Finals
+Alyssa Hunter,14,26,Slender,Latinx,1,0,0,No,0,5,"Fashion, Runway",Polished,No,Noted for polished looks and stage presence,No,0,polished looks,stage presence,Not in Finals
+Sasha Colby,15,38,Slender,Native Hawaiian,0,0,4,No,0,20,"Runway, Performance",Confident,No,Praised for versatility and professionalism,No,0.2875,versatility,professionalism,Winner
+Anetra,15,25,Athletic,Asian American,3,3,3,No,2,5,"Dance, Performance",High-energy,No,Praised for high-energy performances,Yes,0,high-energy performances,,Finalist
+Luxx Noir London,15,22,Slender,Black,1,1,2,No,0,4,"Runway, Performance",Fashion-forward,No,Highlighted for fashion sense and creative concepts,No,0.5,fashion sense,creative concepts,Not in Finals
+Mistress Isabelle Brooks,15,24,Plus-size,Black,1,0,2,No,0,7,"Comedy, Performance",Humorous,No,Known for humor and strong stage presence,No,0.4333333333333333,humor,strong stage presence,Finalist
+Loosey LaDuca,15,32,Average,White,2,1,4,Yes,2,6,"Comedy, Performance",Versatile,No,Recognized for polished looks and consistent performances,No,0.25,polished looks,consistent performances,Not in Finals
+Salina EsTitties,15,31,Plus-size,Latinx,4,3,0,No,0,7,"Comedy, Performance",Bold,No,Celebrated for bold performances and energetic presence,Yes,0.3944444444444444,bold performances,energetic presence,Not in Finals
+Marcia Marcia Marcia,15,25,Average,White,1,0,0,No,0,3,"Comedy, Performance",Humorous,No,Recognized for comedic timing and unique style,No,0.375,comedic timing,unique style,Not in Finals
+Malaysia Babydoll Foxx,15,32,Plus-size,Black,1,0,0,No,0,8,"Runway, Performance",Charismatic,No,Appreciated for charisma and personality,No,0.2,charisma,personality,Not in Finals
+Spice,15,23,Slender,Latinx,2,1,0,No,0,2,"Comedy, Performance",Energetic,No,Known for youthful energy and creative concepts,No,0.5,youthful energy,creative concepts,Not in Finals
+Jax,15,25,Athletic,Black,3,2,0,No,0,4,"Dance, Performance",Athletic,No,Commended for athleticism and performance skills,Yes,0,athleticism,performance skills,Not in Finals
+Aura Mayari,15,30,Athletic,Asian American,1,0,1,No,0,5,"Dance, Performance",High-energy,No,Noted for dance skills and high-energy performances,No,0,dance skills,high-energy performances,Not in Finals
+Robin Fierce,15,26,Average,Black,1,0,0,No,0,6,"Runway, Performance",Elegant,No,Praised for elegance and strong runway presence,No,0.4333333333333333,elegance,strong runway presence,Not in Finals
+Amethyst,15,27,Average,White,3,2,0,No,0,4,"Comedy, Performance",Creative,No,Highlighted for creativity and unique concepts,No,0.375,creativity,unique concepts,Not in Finals
+Sugar,15,23,Slender,Latinx,1,0,0,No,0,2,"Comedy, Performance",Energetic,No,Known for creative looks and bubbly personality,No,0.5,creative looks,bubbly personality,Not in Finals
+Princess Poppy,15,26,Slender,White,1,0,0,No,0,3,"Comedy, Performance",Quirky,No,Recognized for quirky style and humor,No,0,quirky style,humor,Not in Finals
+Irene Dubois,15,29,Slender,White,1,0,0,No,0,4,"Comedy, Performance",Unique,No,Appreciated for unique perspective and creativity,No,0.2875,unique perspective,creativity,Not in Finals
